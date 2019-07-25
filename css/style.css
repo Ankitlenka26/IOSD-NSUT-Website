@@ -96,6 +96,7 @@ nav {
     padding: 0px 0;
     border: none;
     font-weight: 600;
+
 }
 #logo a span.fa {
     color: #fff;
@@ -1938,6 +1939,15 @@ a.move-top span{
 }
 @media(max-width:320px) {
     
+}
+
+
+#logo-img{
+    width: 40%;
+    height: 40%;
+}
+h5{
+    margin: 10px;
 }
 
 /*-- //responsive design --*/
