@@ -96,6 +96,7 @@ nav {
     padding: 0px 0;
     border: none;
     font-weight: 600;
+
 }
 #logo a span.fa {
     color: #fff;
@@ -1939,5 +1940,12 @@ a.move-top span{
 @media(max-width:320px) {
     
 }
+
+
+#logo-img{
+    width: 30%;
+    height: 30%;
+}
+
 
 /*-- //responsive design --*/
