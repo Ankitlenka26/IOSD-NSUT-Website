@@ -465,7 +465,7 @@ h4.b-w3ltxt {
     font-size: 40px;
     color: #333;
 }
-.grid1 span.fa {
+.grid1 span.fab {
     color: #f85a40;
 }
 .grid2 span.fa {
@@ -842,6 +842,9 @@ button.btn1 {
 
 /*-- services --*/
 .icon span.fa {
+    font-size: 35px;
+}
+.icon span.fab {
     font-size: 35px;
 }
 .grid h3 {
