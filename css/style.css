@@ -102,7 +102,16 @@ nav {
     color: #fff;
     font-size: .7em;
 }
-
+.project-name{
+  height:55px
+}
+.project-image{
+  width:220px;
+  height:230px;
+}
+.project-info{
+  height: 170px;
+}
 
 /* Since we'll have the "ul li" "float:left"
  * we need to add a clear after the container. */
